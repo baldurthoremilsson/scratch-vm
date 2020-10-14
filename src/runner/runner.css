@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+}
+
+#buttons {
+	display: flex;
+	justify-content: center;
+}
+
+#buttons button {
+	font-size: 30px;
+	margin: 5px;
+}
+
+#stage {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#scratch-stage {
+	height: 100%;
+}
